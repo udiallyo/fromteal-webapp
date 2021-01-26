@@ -21,18 +21,18 @@ So basically our hypothesis is that if someone wants to self-actualize, but requ
 
 If our hypothesis is correct, why aren’t hackathons enough then as an alternative to the conventional investors model? Why aren’t we seeing many companies started from hackathon events?
 
-We think there are 3 main reasons or constraints, then stand between Hackathon teams & successful businesses:
+We think there are 3 main reasons or constraints, that stand between Hackathon teams & successful businesses:
  
-The 1st is that although Hackathon teams work miraculously during the hackathon, outside of it they don’t maintain the flat organizational structure that leads to such extreme productivity, creativity & effectiveness. This constraint is mostly due to  
-\
+The 1st is that although Hackathon teams work miraculously during the hackathon, outside of it they don’t maintain the flat organizational structure that leads to such extreme productivity, creativity & effectiveness. This constraint is mostly due to people's being only familiar with existing social conventions & constructs, without bwing aware of the alternative of running organizations differently.
+
 The 2nd constraint is that successful business require also knowledge, connections & guidance, which is what good investors provide beyond money, & is something normally not available for Hackathon teams. This includes knowledge & guidance leveraging the experience of other companies, connections & community to learn & collaborate with, demand for progress & accountability on milestones & help in forming an equity model.
 
-The 3rd reason is that building a great product isn’t enough, & you also need to find the people who would love it & pay for it, which isn’t something you normally get in Hackathon events.
+The 3rd constraint is that building a great product isn’t enough, & you also need to find the people who would love it & pay for it, which isn’t something you normally get in Hackathon events.
 
 We formed fromTeal to help people self-actualize - remove the constraints preventing them from making a living from working on what they love. We do this by providing 3 services:
-• Enable & teach people how to form self-organizing, self-managed teams around a shared passion & purpose, just like in Hackathons, but not just for a limited time
-• Provide knowledge & guidance, connections & community, progress & milestones accountability & equity model, similar to what good VC’s provide
-• Creating the marketplace to help teams easily find the people who would love & pay for what they create
+* Enable & teach people how to form self-organizing, self-managed teams around a shared passion & purpose, just like in Hackathons, but not just for a limited time
+* Provide knowledge & guidance, connections & community, progress & milestones accountability & equity model, similar to what good VC’s provide
+* Creating the marketplace to help teams easily find the people who would love & pay for what they create
 
 
 To teach teams how to self-organize without bosses & a hierarchy of power, we educate them on the principles & best-practices of self-managed teams, which were proven to work in some highly successful companies, such as Patagonia, Zappos, Gore, Valve, Morning Star & many others. These principles were described in books such as “Reinventing Organizations”, “Freedom Inc”, “The Human Side of Enterprise”, which show how a self-organizing team such as those in a hackathon can actually form a highly successful business. The teams in these companies are purpose driven: they are truly driven by a calling, trying to make a change in the world. They are also self-managed teams: the companies are split to teams that don’t have any hierarchy between & within them. Each person has the power to make decisions, as long as they ask for advice from others. There’s no need to ask for permission from the management. Everyone are free to exercise their creativity & everyone truly care for the success of the company & they customers.
